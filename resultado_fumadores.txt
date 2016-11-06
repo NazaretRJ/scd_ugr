@@ -1,0 +1,754 @@
+Produce cerillas
+ Fumador número 1: comienza a fumar.
+Produce tabaco
+Fumador número 3: comienza a fumar.
+Produce tabaco
+Fumador número 1: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce tabaco
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce cerillas
+ Fumador número 1: comienza a fumar.
+Produce cerillas
+ Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce tabaco
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce tabaco
+Fumador número 1: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce papel
+Fumador número 2: comienza a fumar.
+Produce papel
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce papel
+Fumador número 3: termina de fumar.
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce tabaco
+Fumador número 3: comienza a fumar.
+Produce tabaco
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce tabaco
+Fumador número 2: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce papel
+Fumador número 2: comienza a fumar.
+Produce tabaco
+Fumador número 2: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce papel
+Fumador número 2: comienza a fumar.
+Produce tabaco
+Fumador número 2: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce papel
+Fumador número 2: comienza a fumar.
+Produce cerillas
+ Fumador número 1: comienza a fumar.
+Produce tabaco
+Fumador número 1: termina de fumar.
+Fumador número 2: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce tabaco
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce cerillas
+ Fumador número 1: comienza a fumar.
+Produce tabaco
+Fumador número 1: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce papel
+Fumador número 2: comienza a fumar.
+Produce papel
+Fumador número 3: termina de fumar.
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce cerillas
+ Fumador número 1: comienza a fumar.
+Produce cerillas
+ Fumador número 2: termina de fumar.
+Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce papel
+Fumador número 2: comienza a fumar.
+Produce cerillas
+ Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce papel
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce papel
+Fumador número 1: termina de fumar.
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce papel
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce tabaco
+Fumador número 3: comienza a fumar.
+Produce cerillas
+ Fumador número 1: comienza a fumar.
+Produce cerillas
+ Fumador número 2: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce papel
+Fumador número 2: comienza a fumar.
+Produce tabaco
+Fumador número 3: comienza a fumar.
+Produce tabaco
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce cerillas
+ Fumador número 2: termina de fumar.
+Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce tabaco
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce tabaco
+Fumador número 1: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce tabaco
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce cerillas
+ Fumador número 1: comienza a fumar.
+Produce cerillas
+ Fumador número 3: termina de fumar.
+Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce cerillas
+ Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce tabaco
+Fumador número 3: comienza a fumar.
+Produce papel
+Fumador número 2: comienza a fumar.
+Produce papel
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce papel
+Fumador número 1: termina de fumar.
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce tabaco
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce cerillas
+ Fumador número 1: comienza a fumar.
+Produce tabaco
+Fumador número 1: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce tabaco
+Fumador número 2: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce cerillas
+ Fumador número 1: comienza a fumar.
+Produce papel
+Fumador número 2: comienza a fumar.
+Produce tabaco
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce papel
+Fumador número 1: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce tabaco
+Fumador número 3: comienza a fumar.
+Produce tabaco
+Fumador número 2: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce papel
+Fumador número 2: comienza a fumar.
+Produce cerillas
+ Fumador número 1: comienza a fumar.
+Produce papel
+Fumador número 3: termina de fumar.
+Fumador número 1: termina de fumar.
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce papel
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce cerillas
+ Fumador número 1: comienza a fumar.
+Produce cerillas
+ Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce tabaco
+Fumador número 3: comienza a fumar.
+Produce tabaco
+Fumador número 2: termina de fumar.
+Fumador número 1: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce cerillas
+ Fumador número 1: comienza a fumar.
+Produce papel
+Fumador número 2: comienza a fumar.
+Produce papel
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce tabaco
+Fumador número 1: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce cerillas
+ Fumador número 1: comienza a fumar.
+Produce tabaco
+Fumador número 2: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce tabaco
+Fumador número 1: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce papel
+Fumador número 2: comienza a fumar.
+Produce cerillas
+ Fumador número 1: comienza a fumar.
+Produce cerillas
+ Fumador número 2: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce papel
+Fumador número 2: comienza a fumar.
+Produce tabaco
+Fumador número 3: comienza a fumar.
+Produce tabaco
+Fumador número 1: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce papel
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce cerillas
+ Fumador número 1: comienza a fumar.
+Produce tabaco
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce papel
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce papel
+Fumador número 1: termina de fumar.
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce papel
+Fumador número 3: termina de fumar.
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce tabaco
+Fumador número 3: comienza a fumar.
+Produce tabaco
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce papel
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce cerillas
+ Fumador número 1: comienza a fumar.
+Produce cerillas
+ Fumador número 3: termina de fumar.
+Fumador número 2: termina de fumar.
+Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce papel
+Fumador número 2: comienza a fumar.
+Produce cerillas
+ Fumador número 2: termina de fumar.
+Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce cerillas
+ Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce cerillas
+ Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce cerillas
+ Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce cerillas
+ Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce tabaco
+Fumador número 3: comienza a fumar.
+Produce cerillas
+ Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce papel
+Fumador número 2: comienza a fumar.
+Produce cerillas
+ Fumador número 3: termina de fumar.
+Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce tabaco
+Fumador número 3: comienza a fumar.
+Produce cerillas
+ Fumador número 2: termina de fumar.
+Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce tabaco
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce tabaco
+Fumador número 1: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce papel
+Fumador número 2: comienza a fumar.
+Produce tabaco
+Fumador número 2: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce papel
+Fumador número 2: comienza a fumar.
+Produce cerillas
+ Fumador número 1: comienza a fumar.
+Produce cerillas
+ Fumador número 3: termina de fumar.
+Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce tabaco
+Fumador número 3: comienza a fumar.
+Produce tabaco
+Fumador número 2: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce cerillas
+ Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce cerillas
+ Fumador número 3: termina de fumar.
+Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce tabaco
+Fumador número 3: comienza a fumar.
+Produce tabaco
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce papel
+Fumador número 2: comienza a fumar.
+Produce cerillas
+ Fumador número 2: termina de fumar.
+Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce papel
+Fumador número 2: comienza a fumar.
+Produce papel
+Fumador número 3: termina de fumar.
+Fumador número 1: termina de fumar.
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce cerillas
+ Fumador número 1: comienza a fumar.
+Produce papel
+Fumador número 1: termina de fumar.
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce cerillas
+ Fumador número 1: comienza a fumar.
+Produce papel
+Fumador número 1: termina de fumar.
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce tabaco
+Fumador número 3: comienza a fumar.
+Produce papel
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce tabaco
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce tabaco
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce papel
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce tabaco
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce papel
+Fumador número 3: termina de fumar.
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce cerillas
+ Fumador número 1: comienza a fumar.
+Produce cerillas
+ Fumador número 2: termina de fumar.
+Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce papel
+Fumador número 2: comienza a fumar.
+Produce tabaco
+Fumador número 3: comienza a fumar.
+Produce papel
+Fumador número 1: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce cerillas
+ Fumador número 1: comienza a fumar.
+Produce cerillas
+ Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce cerillas
+ Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce tabaco
+Fumador número 3: comienza a fumar.
+Produce tabaco
+Fumador número 2: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce papel
+Fumador número 2: comienza a fumar.
+Produce tabaco
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce tabaco
+Fumador número 2: termina de fumar.
+Fumador número 1: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce papel
+Fumador número 2: comienza a fumar.
+Produce cerillas
+ Fumador número 1: comienza a fumar.
+Produce papel
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce tabaco
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce tabaco
+Fumador número 1: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce papel
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce cerillas
+ Fumador número 1: comienza a fumar.
+Produce tabaco
+Fumador número 1: termina de fumar.
+Fumador número 2: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce cerillas
+ Fumador número 1: comienza a fumar.
+Produce tabaco
+Fumador número 1: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce papel
+Fumador número 2: comienza a fumar.
+Produce papel
+Fumador número 3: termina de fumar.
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce papel
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce papel
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce papel
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce tabaco
+Fumador número 3: comienza a fumar.
+Produce papel
+Fumador número 3: termina de fumar.
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce papel
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce papel
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce papel
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce cerillas
+ Fumador número 1: comienza a fumar.
+Produce papel
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce cerillas
+ Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce papel
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce papel
+Fumador número 1: termina de fumar.
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce tabaco
+Fumador número 3: comienza a fumar.
+Produce cerillas
+ Fumador número 1: comienza a fumar.
+Produce cerillas
+ Fumador número 3: termina de fumar.
+Fumador número 2: termina de fumar.
+Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce tabaco
+Fumador número 3: comienza a fumar.
+Produce tabaco
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce papel
+Fumador número 2: comienza a fumar.
+Produce cerillas
+ Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce cerillas
+ Fumador número 2: termina de fumar.
+Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce tabaco
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce tabaco
+Fumador número 1: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce cerillas
+ Fumador número 1: comienza a fumar.
+Produce tabaco
+Fumador número 1: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce tabaco
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce cerillas
+ Fumador número 1: comienza a fumar.
+Produce papel
+Fumador número 2: comienza a fumar.
+Produce cerillas
+ Fumador número 3: termina de fumar.
+Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce papel
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce tabaco
+Fumador número 3: comienza a fumar.
+Produce cerillas
+ Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce papel
+Fumador número 3: termina de fumar.
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce tabaco
+Fumador número 3: comienza a fumar.
+Produce cerillas
+ Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce cerillas
+ Fumador número 2: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce tabaco
+Fumador número 3: comienza a fumar.
+Produce papel
+Fumador número 2: comienza a fumar.
+Produce tabaco
+Fumador número 1: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce tabaco
+Fumador número 2: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce cerillas
+ Fumador número 1: comienza a fumar.
+Produce tabaco
+Fumador número 1: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce cerillas
+ Fumador número 1: comienza a fumar.
+Produce cerillas
+ Fumador número 3: termina de fumar.
+Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce cerillas
+ Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce papel
+Fumador número 2: comienza a fumar.
+Produce cerillas
+ Fumador número 2: termina de fumar.
+Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce tabaco
+Fumador número 3: comienza a fumar.
+Produce tabaco
+Fumador número 1: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce tabaco
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce cerillas
+ Fumador número 1: comienza a fumar.
+Produce cerillas
+ Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce cerillas
+ Fumador número 3: termina de fumar.
+Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce cerillas
+ Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce papel
+Fumador número 2: comienza a fumar.
+Produce tabaco
+Fumador número 3: comienza a fumar.
+Produce papel
+Fumador número 1: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce cerillas
+ Fumador número 1: comienza a fumar.
+Produce cerillas
+ Fumador número 2: termina de fumar.
+Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce tabaco
+Fumador número 3: comienza a fumar.
+Produce cerillas
+ Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce cerillas
+ Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce cerillas
+ Fumador número 3: termina de fumar.
+Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce cerillas
+ Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce tabaco
+Fumador número 3: comienza a fumar.
+Produce papel
+Fumador número 2: comienza a fumar.
+Produce tabaco
+Fumador número 1: termina de fumar.
+Fumador número 2: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce tabaco
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce papel
+Fumador número 2: comienza a fumar.
+Produce tabaco
+Fumador número 2: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce tabaco
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce tabaco
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce papel
+Fumador número 2: comienza a fumar.
+Produce cerillas
+ Fumador número 1: comienza a fumar.
+Produce papel
+Fumador número 1: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce papel
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce papel
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce tabaco
+Fumador número 3: comienza a fumar.
+Produce papel
+Fumador número 3: termina de fumar.
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce tabaco
+Fumador número 3: comienza a fumar.
+Produce papel
+Fumador número 3: termina de fumar.
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce cerillas
+ Fumador número 1: comienza a fumar.
+Produce papel
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce tabaco
+Fumador número 3: comienza a fumar.
+Produce tabaco
+Fumador número 1: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce papel
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce tabaco
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce papel
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce cerillas
+ Fumador número 1: comienza a fumar.
+Produce cerillas
+ Fumador número 3: termina de fumar.
+Fumador número 1: termina de fumar.
+Fumador número 1: comienza a fumar.
+Produce tabaco
+Fumador número 3: comienza a fumar.
+Produce papel
+Fumador número 3: termina de fumar.
+Fumador número 2: termina de fumar.
+Fumador número 2: comienza a fumar.
+Produce tabaco
+Fumador número 3: comienza a fumar.
+Produce tabaco
+Fumador número 1: termina de fumar.
+Fumador número 3: termina de fumar.
+Fumador número 3: comienza a fumar.
+Produce tabaco
+Fumador número 2: termina de fumar.
+Fumador número 3: termina de fumar.
